@@ -1,5 +1,7 @@
 # web3-ctf-notes
 
-### some notes about web3 ctf
+### A personal summary of Web3 CTF challenges, techniques, and pitfalls.
 
-- The Ethernaut
+这是我对 Web3 CTF 挑战、技术与易错点的个人总结。
+
+## The Ethernaut:src/the-ethernaut
