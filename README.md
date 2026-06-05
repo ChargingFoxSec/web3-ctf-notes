@@ -4,8 +4,6 @@ Personal Web3 CTF notes covering exploit patterns, vulnerability classes, and le
 
 This repository is a learning record for Web3 security practice. The notes focus on understanding why a challenge is vulnerable, how to reproduce the exploit path, and what security lesson should be carried into real audits.
 
-这些内容是我的 Web3 CTF 学习笔记，用来记录漏洞模式、利用思路和易错点。
-
 ## Notes
 
 - These notes are for Web3 security learning and exploit-pattern practice.
