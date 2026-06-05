@@ -9,6 +9,7 @@ This repository is a learning record for Web3 security practice. The notes focus
 - These notes are for Web3 security learning and exploit-pattern practice.
 - They are not real-world vulnerability disclosures.
 - Some early notes are intentionally lightweight and may be revised as my audit methodology improves.
+- The `solutions/the-ethernaut` directory contains Remix-written Solidity contracts used while solving Ethernaut levels. These are kept as historical solution artifacts, not as a polished Foundry test suite.
 
 ## The Ethernaut
 
@@ -27,6 +28,8 @@ This repository is a learning record for Web3 security practice. The notes focus
 ```text
 src/
   the-ethernaut/     Ethernaut challenge notes
+solutions/
+  the-ethernaut/     Remix-written Ethernaut solution contracts
 markdown-template.md Template for future notes
 ```
 
